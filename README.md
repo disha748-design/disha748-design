@@ -27,7 +27,7 @@
 ## ✨ About Me
 - 🌿 From **Goa**, currently exploring AI & creativity  
 - 🎵 Love *reading* and learning new hobbies
-- 💌 Reach me: [LinkedIn]((https://www.linkedin.com/in/disha-talaulikar-48371b234/)) | [Email](mailto:dishatalaulikar@gmail.com)
+- 💌 Reach me: [LinkedIn](https://www.linkedin.com/in/disha-talaulikar-48371b234/) | [Email](mailto:dishatalaulikar@gmail.com)
 
 ## 🎵 Fun Facts
 - 🎧 I code best to *Taylor Swift music*  
