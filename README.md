@@ -5,9 +5,9 @@
 # 👋 Hi, I'm Disha!
 
 🎓 BE in Electronics & Computer Science | Minor in AI & ML  
-💡 Passionate about building AI, ML, and full-stack projects  
-📚 Currently learning: Data Science, Deep Learning & MAchine Learning   
 💼 Ex-Intern at Persistent Systems  
+💡 Passionate about building AI, ML, and full-stack projects  
+📚 Currently learning: Data Science, Deep Learning & Machine Learning   
 🎨 I love blending creativity, code, and storytelling while solving real world problems!
 
 ## 🧰 Tech Stack
@@ -26,8 +26,8 @@
 
 ## ✨ About Me
 - 🌿 From **Goa**, currently exploring AI & creativity  
-- 🎵 Love *reading* and learning hobbies
-- 💌 Reach me: [LinkedIn]([https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/disha-talaulikar-48371b234/)) | [Email](mailto:dishatalaulikar@gmail.com)
+- 🎵 Love *reading* and learning new hobbies
+- 💌 Reach me: [LinkedIn]((https://www.linkedin.com/in/disha-talaulikar-48371b234/)) | [Email](mailto:dishatalaulikar@gmail.com)
 
 ## 🎵 Fun Facts
 - 🎧 I code best to *Taylor Swift music*  
